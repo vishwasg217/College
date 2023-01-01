@@ -1,0 +1,28 @@
+1. Define class and objects. Give an exmaple for creating a class and objects of that class
+2. What are attributes? Explain with and example and respective object diagram.
+
+3. Explain class attributes and instance attributes with exmaple 
+4. Write a program to create a class called point with two attributes x and y 
+    write the following functions and demonstrate the working of these functions by creatting suitable objects.
+    a) to read attributes values
+    b) display point as ordered pair
+    c) find distance between the points
+5. Write a program to create class called rectangle with the help of a corner point from a width and height writw the follwoing functions:
+    a) to find and display centre of rectangle
+    b) to display point as an ordered pair
+    c) to resize the rectangle
+6. Differentiate copy.copy() and copy.deepcopy()
+7. Discuss the following functions:
+    a) is insance functions
+    b) has_attr()
+    c) vars()
+
+8. Differentiate modifiers and pure functions with example
+9. Differentiate methods and functions
+10. discuss the significance of init and str methods
+11. Discuss the self keyword with example 
+12. Justify the statement objects are mutable 
+13. What do you mean by instance as returning values? Explain with exmaple.
+14. When do we encouter attribute error?
+15. 
+

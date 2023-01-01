@@ -1,0 +1,17 @@
+
+1. what are the flow control statements supported in python. Explain with flow chart and code snippet
+2. write a pgm to guess number b/w 1 and 20, get input from user where user will be given 6 chances to guess the number, and display appropriate message
+3. Write a pgm to print whether the triangle is equilateral, iscoceles or scalense, get input from user
+4. what is the local global scope variable in python, explain different scenarios with an example snippet
+5. Illustrate sys.exit() function with suitable example
+6. Demonstrate with example print, input and string replacement
+7. Explain for, while, break, continue statements in python with examples for each
+8. pgm to find whether number os even or odd
+9. How can we pass parameters with user defined functions
+10. Explain the concept of type conversion and math functions in python with example
+11. What is a string? write a pgm to demonstrate traversal through string with a loop> Also the explain the concept of string slicing
+12. What is exception handling? how exceptions are handled in python? Write a python pgm with exception handling code to solve divede by zero error situation
+13. Explain with example code snippet different syntax of range function in python
+14. Write a pgm to create a function called collat() which reads as paramater: name, number. If number is even, it should return number//2, in number is odd it should print and return 3*number+1. The function should keep calling on that number until that function returns a value one. 
+15. Write a pgm to using function to find out given string is palindrome or not. 
+

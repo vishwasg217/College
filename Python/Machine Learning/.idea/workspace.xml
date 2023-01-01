@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c328ae5d-487a-4a1e-87b9-127d032564ec" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Basics/for_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics/for_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/helloworld.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics/helloworld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/if_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics/if_else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/iteration.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics/iteration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/list .py" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics/list .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/mod.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics/mod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/mod_prog.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics/mod_prog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics/operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/print_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics/print_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/read.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics/read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/slice.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics/slice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/string.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics/string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics/while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics/write.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics/write.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intermediate/hello.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/class_inh.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/class_inh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/coord.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/coord.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/static_classic.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/static_classic.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2GEJJzBFoFTYXzFEJ0m4hzHcXE3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c328ae5d-487a-4a1e-87b9-127d032564ec" name="Changes" comment="" />
+      <created>1665947741946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665947741946</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

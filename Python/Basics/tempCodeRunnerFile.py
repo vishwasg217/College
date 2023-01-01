@@ -1,0 +1,1 @@
+rint('You are a senior citizen')

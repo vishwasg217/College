@@ -1,0 +1,23 @@
+1. What is a list? explain the concept of slicing and indexing with proper exmaples.
+2. Explain append, remove and insert function with example.
+3. What is dictionary? Illustrate with an example the usage nested dictionary.
+4. Write a pgm that accepts a sentence find the number of words, digits, uppercase and lowercase letters
+5. Discuss the following operaters with suitable exmaples: **, //, in and not, replication and concatenation
+6. With suitable exmaple explain, piper clip module and p print module in detail.
+7. Create a function to print out an empty tic tac toe board
+8. What is the difference between copy.copy() and copy.deepcopy() function applicable to a list or dictionary in python. give examples.
+9. Explain the various string methods for the follwing operations with example: remove whitespace character from beginning and the end, remove whitespace characters and both sides of string, to right justify, left justify and centre a string
+10. Discuss the follwing dictionary methods with exmaples: get, items, keys and values
+11. How is tuple different from list? Which function is function used the convert list to a tuple.
+12. Explain the methods of list datatype in python for the following operations: finding a value in list, sorting the values in a list, 
+13. With example code. explain join and split string methods.
+14. Develop a python program to accept sentence from user, and display the longest word of that sentence along with its length
+15. How is dictionary different from the list. Assume a dictionary containing city and population as key and value respectivly. Write a pgm to traverse dictionary and display most populous city.
+16. Explain the following string methods with exmaple: join, islower, strip, centre
+17. If s='hello world', explain and write the output of following statements: s[1:5], s[:5], s[3:-1], s[:]
+18. Write a pgm to check validity of password read by the users. following criteria should be used to check validity: should have one lower case letter, one digit, one uppercase letter, one special character($, #, @, !), 6 characters. Your pgm shpuld accept and check validity using above criteria and  print valid or invalid as the case. 
+19. Write a pgm that accpets a sentence and build dictionary with Letters, Digits, Uppercase, Lowercase as key values and they count in the sentence as values
+20. Write a pgm to generate fibonacci series upto the given limit by defining the fibonacci(n) function
+21. What are the advantages of dictionary over the list.
+22. Write a python pgm to accept usn and marks obtained, find maximum and minumum and students usn who have scored in the range: 100-85, 85-75, 75-60, and below 60
+23. Demonstrate how dictionary items can be represented as list of tuples and how tuples can be used as keys in dictionaries. 
